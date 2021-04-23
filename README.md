@@ -2,7 +2,7 @@
 
 ## I'm a graphic Designer, FrontEnd developer in process, and Nature lover!
 
-- :art: FrontEnd Developer in process!!!! 
+- :art: FrontEnd Developer and test automation in process!!!! 
 - :zap: I’m currently learning everything 
 - :tiger: My goal is to be able to trasform the enviroment and people's perspective through tecnology.One line of code at time.
 - :star: “Great things are not done by impulse, but by a series of small things brought together.”― Vincent Van Gogh
